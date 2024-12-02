@@ -6,7 +6,7 @@
    - Industry
    - Product Or Service
    - Profile Pic 
-   - Language changing
+   - Language choice
 ## - Contract CRUD
    - Title 
    - Users partaking in contract
