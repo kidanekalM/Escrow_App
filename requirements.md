@@ -14,5 +14,6 @@
    - Type : One time, Recurring
    - Reminder date
    - Invitation Link
+   - warranty
 ## Transactions CRUD
    -  
