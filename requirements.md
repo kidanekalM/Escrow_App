@@ -15,5 +15,9 @@
    - Reminder date
    - Invitation Link
    - warranty
-## Transactions CRUD
-   -  
+   - status - new / pending / accepted 
+## Chat 
+   - Contract ID 
+   - User ID
+   - Message 
+   - Date and time
