@@ -2,7 +2,8 @@
 
 ## - User Account CRUD
    - First Name , Father Name , Last Name
-   - Bank Account Number
+   - bank name
+     Bank Account Number
    - Industry
    - Product Or Service
    - Profile Pic 
@@ -15,9 +16,10 @@
    - Reminder date
    - Invitation Link
    - warranty
-   - status - new / pending / accepted 
+   - status - new / pending / accepted / paid  
 ## Chat 
    - Contract ID 
    - User ID
    - Message 
    - Date and time
+   - seen status
